@@ -10,4 +10,4 @@ docker-compose up --build
 
 ## Authors
 
-* **Adrien Gillmann** - *Initial work* - [Agillmann](https://github.com/Agilmann)
+* **Adrien Gillmann** - *Initial work* - [Agillmann](https://github.com/Agillmann)
